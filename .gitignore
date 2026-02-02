@@ -1,0 +1,5 @@
+# Daily Git Report
+report/
+*.pyc
+__pycache__/
+.env

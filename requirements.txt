@@ -1,0 +1,14 @@
+# Daily Git Report Generator - Dependencies
+# ==========================================
+
+# Gemini API (기본값, 권장)
+google-generativeai>=0.8.0
+
+# Anthropic API (선택)
+# anthropic>=0.39.0
+
+# Note:
+# - Gemini API 사용 시: pip install google-generativeai
+# - Anthropic API 사용 시: pip install anthropic
+# - Claude CLI 사용 시: 패키지 설치 불필요 (claude 명령어만 필요)
+# - 키워드 기반 분석 시: 추가 패키지 불필요
